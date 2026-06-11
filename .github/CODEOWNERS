@@ -1,0 +1,4 @@
+# Default owner for everything in the repo.
+# GitHub automatically requests a review from code owners on every PR.
+# Update the handle below if your GitHub username is different.
+* @yemisi567
