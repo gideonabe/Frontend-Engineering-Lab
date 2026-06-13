@@ -6,7 +6,7 @@ Frontend architecture, project structure, and the design decisions behind mainta
 
 <!-- Add a link to your article below, keeping the list alphabetical. -->
 
-*No articles yet — [be the first to contribute!](../CONTRIBUTING.md)*
+- [Feature-Driven Architecture and Strict Colocation](./feature-driven-architecture-and-strict-colocation.md)
 
 ## Ideas for Contributions (but not limited to)
 

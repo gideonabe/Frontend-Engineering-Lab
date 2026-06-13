@@ -6,7 +6,7 @@ Real-world stories: incidents, migrations, refactors, and lessons learned. The m
 
 <!-- Add a link to your case study below, keeping the list alphabetical. -->
 
-*No case studies yet — [be the first to contribute!](../CONTRIBUTING.md)*
+- [How an Infinite Re-Render Increased API Traffic by 20x](./how-an-infinite-re-render-increased-api-traffic-by-20x.md)
 
 ## What Makes a Good Case Study (but not limited to)
 
