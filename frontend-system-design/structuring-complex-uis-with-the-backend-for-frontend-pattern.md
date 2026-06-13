@@ -247,4 +247,4 @@ Caching frequently requested data can significantly reduce load on downstream se
 
 ## References
 
-* Sam Newman, *Pattern: Backends For Frontends (BFF)*: https://samnewman.io/patterns/architectural/bff/
+- [Sam Newman — Pattern: Backends For Frontends (BFF)](https://samnewman.io/patterns/architectural/bff/)
